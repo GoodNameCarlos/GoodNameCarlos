@@ -7,6 +7,7 @@
           carlos.gz.cb@gmail.com 
           carlos.gz.cb@comunidad.unam.mx
           twitter: @goodnamecarlos 
+
                            ●
                        /\__\__/\
                      /           \
