@@ -9,10 +9,10 @@ carlos.gz.cb@gmail.com
 | carlos.gz.cb@comunidad.unam.mx
 | twitter: @goodnamecarlos 
 
-         ●
-     /\__\__/\
-    /           \
- \ (  ﾐ  ⌒ ● ⌒ ﾐ)/
+            ●
+         /\__\__/\
+       /           \
+    \ (  ﾐ  ⌒ ● ⌒ ﾐ)/
 
 <!---
 GoodNameCarlos/GoodNameCarlos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
