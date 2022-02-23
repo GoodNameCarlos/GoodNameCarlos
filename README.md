@@ -4,7 +4,7 @@
 - 🌱 I’m currently learninng how to use R and Git, althought I consider that I have a good grasp on R. 
 - 💞️ I’m looking to collaborate on aging research and development of research strategies, methodology and scientific comunication.
 
-[ ] Happy
+[ ] Happy  
 [X] Not happy
 
 🦊
