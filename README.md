@@ -1,4 +1,7 @@
 # 👋 Hello, I’m Carlos González-Carballo 
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGoodNameCarlos
+
+
 - 👁 👄 👁 I'm interested in learning how to use R, RStudio, Python, Git and more programming software that can help me in research. 
            My main focus in academia is aging, aging successfully and/or healthy, Psychological well being, mental health and Statistics.  
 - 🌱 I’m currently learninng how to use R and Git, althought I consider that I have a good grasp on R. 
