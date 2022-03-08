@@ -1,4 +1,7 @@
-# 👋 Hello, I’m Carlos González-Carballo 
+<p>
+   <h1 align = "center"><b>👋 Hello, I’m Carlos González-Carballo </h1>
+</p>
+
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FGoodNameCarlos)
 ![Twitter Follow](https://img.shields.io/twitter/follow/GoodNameCarlos?style=social)
 
