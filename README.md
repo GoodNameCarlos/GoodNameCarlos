@@ -30,7 +30,7 @@
  
 <div align = "center"> 
    <a href = "mailto:carlos.gz.cb@gmail.com">carlos.gz.cb@gmail.com</a> | <a href = "mailto:carlos.gz.cb@comunidad.unam.mx">carlos.gz.cb@comunidad.unam.mx</a>   
-   <img src = >
+   <img src = "https://github.com/GoodNameCarlos/GoodNameCarlos/blob/main/Chocobo.gif" alt = "" width="30">
 
     ●
      /\__\__/\
