@@ -1,5 +1,5 @@
 <p>
-   <h1 align = "center"><b>👋 Hello, I’m Carlos González-Carballo </h1>
+   <h1 align = "center"><b>👋 Hello, I’m Carlos González-Carballo    <img src = "https://github.com/GoodNameCarlos/GoodNameCarlos/blob/main/FF_Blackmage.gif" alt = "" width="30"></h1>
 </p>
 <br />
 
