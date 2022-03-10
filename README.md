@@ -10,7 +10,7 @@
 <br />
 
 <p align = "center">
-   <a href = "https://github.com/GoodNameCarlos/Successful_and_Healthy_Aging-SR_MA"> <img align ="" src = "https://github-readme-stats.vercel.app/api/pin/?username=GoodNameCarlos&repo=Successful_and_Healthy_Aging-SR_MA&theme=algolia&show_icons=true" />
+   <a href = "https://github.com/GoodNameCarlos/Successful_and_Healthy_Aging-SR_MA"> <img align ="" src = "https://github-readme-stats.vercel.app/api/pin/?username=GoodNameCarlos&repo=Successful_and_Healthy_Aging-SR_MA&theme=algolia&show_icons=true&hide_border" />
 </a>
 </p>
 
